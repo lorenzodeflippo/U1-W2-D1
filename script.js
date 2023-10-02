@@ -67,5 +67,5 @@ console.log(4 + 12);
 name1 = "john"
 name2 = "John"
 console.log(name1 = name2) = false
-name1 = "john"
+name2 = "john"
 console.log(name1 = name2) = true 
